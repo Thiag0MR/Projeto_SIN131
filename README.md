@@ -1,6 +1,6 @@
 # Projeto_SIN131
 
-###Programa 1: simulacao/Simulacao.java
+### Programa 1: simulacao/Simulacao.java
 - Simula a computação de um AFD - Autômato Finito Determinístico.
 - Recebe três parâmetros:
 	- O arquivo contendo a descrição do AFD
@@ -15,7 +15,7 @@
 java -jar simulacao.jar afd.txt palavras.txt saida.txt
 ```
 
-###Programa 2: conversao/Converter.java
+### Programa 2: conversao/Converter.java
 - Converte um AFN - Autômato Finito Não-Determinístico para um AFD.
 - Recebe dois parâmetros:
 	- O arquivo contendo a descrição do AFN
@@ -26,7 +26,7 @@ java -jar simulacao.jar afd.txt palavras.txt saida.txt
 java -jar converter.jar afn1.txt afdGerado.txt
 ```
 
-###Programa 3: minimizacao/Minimizacao.java
+### Programa 3: minimizacao/Minimizacao.java
 - Minimiza um AFD e um AFD Mínimo.
 - Recebe dois parâmetros:
 	- O arquivo contendo a descrição do AFD que será minimizado
