@@ -1,0 +1,10 @@
+AFN # (Linha 1) Representação do formalismo
+4 q0 q1 q2 qf # (Linha 2) Estados 
+2 a b # (Linha 3) Símbolos
+q0 # (Linha 4) Estado inicial 
+1 qf # (Linha 5) Estados finais
+q0 a q0 q1 # Início das transições
+q0 b q0 
+q1 a q2  
+q2 a qf
+
