@@ -1,0 +1,17 @@
+AFD # (Linha 1) Representação do formalismo
+5 s q1 q2 r1 r2 # (Linha 2) Estados
+2 a b # (Linha 3) 3 símbolos
+s # (Linha 4) O estado inicial é o 0
+2 q2 r2 # (Linha 5) Estados finais
+s a q1 # Transições 
+s b r1
+q1 a q2
+q1 b q2
+r1 a r2
+r1 b r2
+q2 a q2
+q2 b q2
+r2 a r2
+r2 b r2
+
+

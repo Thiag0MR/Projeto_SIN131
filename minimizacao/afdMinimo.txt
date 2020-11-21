@@ -1,0 +1,5 @@
+AFD # (Linha 1) Representação do formalismo
+0 # (Linha 2) 0 estados: 
+0 # (Linha 3) 0 símbolos: 
+null # (Linha 4) O estado inicial é o null
+0 # (Linha 5) Possui 0 estados finais: 

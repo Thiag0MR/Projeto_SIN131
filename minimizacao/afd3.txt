@@ -1,0 +1,15 @@
+AFD # (Linha 1) Representação do formalismo
+5 0 1 2 3 4 # (Linha 2) Estados
+2 a b # (Linha 3) 2 símbolos: a e b
+0 # (Linha 4) O estado inicial é o 0
+2 3 4 # (Linha 5) Estados finais
+0 a 1 # Transições 
+1 a 3 
+1 b 2 
+2 a 4
+2 b 2 
+3 a 3 
+3 b 2 
+4 a 3
+4 b 2
+
