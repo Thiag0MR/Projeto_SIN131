@@ -27,7 +27,7 @@ java -jar converter.jar afn1.txt afdGerado.txt
 ```
 
 ### Programa 3: minimizacao/Minimizacao.java
-- Minimiza um AFD e um AFD Mínimo.
+- Minimiza um AFD em um AFD Mínimo.
 - Recebe dois parâmetros:
 	- O arquivo contendo a descrição do AFD que será minimizado
 	- O arquivo que será gerado contendo a descrição do AFD Mínimo
